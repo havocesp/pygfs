@@ -15,8 +15,20 @@ Python packages:
 - lxml
 - dateparser
 - splinter
+- pyshorteners
 
-Firefox web-driver is also needed.
+Firefox web-driver installed is also needed.
+
+## Changelog
+
+### 0.1.1
+
+- Search between to dates implemented
+
+### 0.1.0
+
+- Initial version
+
 
 ## Contribute
 
